@@ -1,0 +1,14 @@
+/* .img_grid {
+    width: 200px;
+    height: 200px; 
+} */
+
+/* .productGrid {
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 200px 200px;
+} */
+
+.shop{
+    display: grid;
+}

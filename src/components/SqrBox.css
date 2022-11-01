@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+/* .sqr {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, max(20rem));
+    gap: auto;
+    justify-content: space-between;
+    padding: 0rem;
+    background: #FDFDBD;
+} */
+
+.sqrImg{
+    margin: auto 1%; 
+    position: relative;
+    /* display: block; */
+    
+}
+.freeS {
+    font-family: 'Satisfy', cursive;
+}
+
+.whiteBox {
+    margin: 5%;
+    position: absolute;
+    font-size: 15px;
+    background-color: white;
+    top: 15%;
+    left: 5%;
+}
+
+.orangeImg {
+    position: relative;
+    left: 30%;
+}
+
+.whiteImg {
+    position: relative;
+    left: 20%;
+}
